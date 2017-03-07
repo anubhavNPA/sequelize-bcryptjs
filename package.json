@@ -1,0 +1,9 @@
+{
+  "name": "SequelizeCRUDOperationWithbcryptjs",
+  "version": "0.0.1",
+  "dependencies": {
+    "mysql": "^2.11.1",
+    "sequelize": "^3.24.3",
+    "bcryptjs": "*"
+  }
+}
